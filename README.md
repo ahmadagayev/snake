@@ -1,1 +1,2 @@
-Proyekt's link : https://proje-snake-game.netlify.app/
+# PROJECT'S LINK
+https://proje-snake-game.netlify.app/
